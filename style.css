@@ -35,6 +35,10 @@ p#id-example-1.class-example-1  {
     text-align: center;
 }
 
+table {
+    background-color: #fff;
+}
+
 table, td {
     border:solid 1px black ;
     text-align: center;
